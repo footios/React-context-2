@@ -1,6 +1,6 @@
 ### React context
 
-In the initial commit we have the normal
+In the React-context we have the normal
 way of passing props.
 
 Then in the second commit we comment out the handleAuth
