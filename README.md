@@ -1,4 +1,4 @@
-### React context
+### React context 2
 
 In the React-context we have the normal
 way of passing props.
